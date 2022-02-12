@@ -1,0 +1,3 @@
+Job.fromJson(Map<String, dynamic> json)
+      : company = json['company'],
+        title = json['title'];
