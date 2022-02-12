@@ -10,14 +10,9 @@ Job.fromJson(Map<String, dynamic> json)
         
         
         CCCCCC
-
-        111111
-        222222
-
         
         
         DDDDDD
         
         
         EEEEEE
-
