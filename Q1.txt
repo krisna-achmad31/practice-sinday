@@ -7,3 +7,6 @@ Job.fromJson(Map<String, dynamic> json)
         
         
         BBBBBB
+        
+        
+        CCCCCCC
