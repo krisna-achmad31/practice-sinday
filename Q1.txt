@@ -12,11 +12,7 @@ Job.fromJson(Map<String, dynamic> json)
         CCCCCC
         
         
-
-        DDDDDD(I LOVE YOU)
-
-
+        DDDDDD
         
         
         EEEEEE
-
