@@ -1,2 +1,3 @@
 mencoba latihan squash
 - squash 1
+- squash 2
